@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "pg": "^8.7.3",
+    "sequelize": "^6.19.0"
+  },
+  "name": "listex---3",
+  "version": "1.0.0",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maria Clara Alves de Faria",
+  "license": "ISC",
+  "description": ""
+}
